@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/robwittman/semantic-release-test/compare/v1.1.1...v1.2.0) (2022-10-24)
+
+
+### Features
+
+* Add helm publishing ([db32897](https://github.com/robwittman/semantic-release-test/commit/db328977c20d3a5db9875676d877d243018a25eb))
+
 ## [1.1.1](https://github.com/robwittman/semantic-release-test/compare/v1.1.0...v1.1.1) (2022-10-24)
 
 
