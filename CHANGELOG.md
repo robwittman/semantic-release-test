@@ -1,3 +1,10 @@
+## [1.3.2](https://github.com/robwittman/semantic-release-test/compare/v1.3.1...v1.3.2) (2022-10-24)
+
+
+### Bug Fixes
+
+* use release.types=created ([b1e5b79](https://github.com/robwittman/semantic-release-test/commit/b1e5b794d6587488cbe9ef475b56e1fca291ee2d))
+
 ## [1.3.1](https://github.com/robwittman/semantic-release-test/compare/v1.3.0...v1.3.1) (2022-10-24)
 
 
