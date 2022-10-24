@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/robwittman/semantic-release-test/compare/v1.2.3...v1.3.0) (2022-10-24)
+
+
+### Features
+
+* Add docker build ([c62d060](https://github.com/robwittman/semantic-release-test/commit/c62d0603e3d629eeab73fea1a67776779fcf13c4))
+
 ## [1.2.3](https://github.com/robwittman/semantic-release-test/compare/v1.2.2...v1.2.3) (2022-10-24)
 
 
