@@ -1,3 +1,10 @@
+## [1.2.3](https://github.com/robwittman/semantic-release-test/compare/v1.2.2...v1.2.3) (2022-10-24)
+
+
+### Bug Fixes
+
+* Use global variables ([51daf89](https://github.com/robwittman/semantic-release-test/commit/51daf89f2b4e4d26583b5c229af6eb46f532959a))
+
 ## [1.2.2](https://github.com/robwittman/semantic-release-test/compare/v1.2.1...v1.2.2) (2022-10-24)
 
 
