@@ -103,6 +103,8 @@ prepare:
 
 publish:
   - path: '@semantic-release/github'
+  - path: 'semantic-release-helm3'
+    chartPath: './charts/semantic-release-test'
 
 success:
   - path: 'semantic-release-slack-bot'
