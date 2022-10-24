@@ -6,7 +6,8 @@ verifyConditions:
   - '@semantic-release/git'
   - '@semantic-release/github'
   - 'semantic-release-slack-bot'
-  - 'semantic-release-helm3'
+  - path: 'semantic-release-helm3'
+    chartPath: './charts/semantic-release-test'
 
 analyzeCommits:
   - path: '@semantic-release/commit-analyzer'
