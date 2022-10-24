@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/robwittman/semantic-release-test/compare/v1.1.0...v1.1.1) (2022-10-24)
+
+
+### Bug Fixes
+
+* Remove custom slack config ([6b05339](https://github.com/robwittman/semantic-release-test/commit/6b05339ad3a20dfffe513aa59ea562b36a1cbe29))
+
 # [1.1.0](https://github.com/robwittman/semantic-release-test/compare/v1.0.0...v1.1.0) (2022-10-24)
 
 
