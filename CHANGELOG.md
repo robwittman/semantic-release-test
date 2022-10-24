@@ -1,3 +1,11 @@
+## [1.2.1](https://github.com/robwittman/semantic-release-test/compare/v1.2.0...v1.2.1) (2022-10-24)
+
+
+### Bug Fixes
+
+* Add chartPath to verifyConditions ([b74a7d3](https://github.com/robwittman/semantic-release-test/commit/b74a7d348684471b5411c90be7f3fc64f527b342))
+* Add prepare / verifyConditiions plugins for helm3 ([b59141c](https://github.com/robwittman/semantic-release-test/commit/b59141c54ce7861a50cbb7436dd196e197d448af))
+
 # [1.2.0](https://github.com/robwittman/semantic-release-test/compare/v1.1.1...v1.2.0) (2022-10-24)
 
 
