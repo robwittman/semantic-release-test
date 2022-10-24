@@ -6,7 +6,7 @@
     "@semantic-release/git": "github:semantic-release/git",
     "@semantic-release/github": "github:semantic-release/github",
     "semantic-release": "^19.0.5",
-    "semantic-release-helm3": "^2.3.3",
+    "semantic-release-helm": "^2.2.0",
     "semantic-release-slack-bot": "^3.5.3"
   }
 }
