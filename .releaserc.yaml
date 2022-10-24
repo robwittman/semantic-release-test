@@ -5,7 +5,7 @@ verifyConditions:
   - '@semantic-release/changelog'
   - '@semantic-release/git'
   - '@semantic-release/github'
-  - '@semantic-release-slack-bot'
+  - 'semantic-release-slack-bot'
 
 analyzeCommits:
   - path: '@semantic-release/commit-analyzer'
