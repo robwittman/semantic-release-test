@@ -6,6 +6,7 @@ verifyConditions:
   - '@semantic-release/git'
   - '@semantic-release/github'
   - 'semantic-release-slack-bot'
+  - 'semantic-release-helm3'
 
 analyzeCommits:
   - path: '@semantic-release/commit-analyzer'
@@ -100,6 +101,8 @@ prepare:
     # Push a release commit and tag, including configurable files
     message: 'RELEASE: ${nextRelease.version}'
     assets: ['CHANGELOG.md']
+  - path: 'semantic-release-helm3'
+    chartPath: './charts/semantic-release-test'
 
 publish:
   - path: '@semantic-release/github'
