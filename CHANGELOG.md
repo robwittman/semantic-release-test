@@ -1,3 +1,10 @@
+## [1.2.2](https://github.com/robwittman/semantic-release-test/compare/v1.2.1...v1.2.2) (2022-10-24)
+
+
+### Bug Fixes
+
+* Use main helm plugin, not the fork ([b62a465](https://github.com/robwittman/semantic-release-test/commit/b62a465bfe0f804c5f36b20a794b489c43af5f5c))
+
 ## [1.2.1](https://github.com/robwittman/semantic-release-test/compare/v1.2.0...v1.2.1) (2022-10-24)
 
 
