@@ -1,13 +1,14 @@
 branches:
   - main
 
+chartPath: './charts/semantic-release-test'
+
 verifyConditions:
   - '@semantic-release/changelog'
   - '@semantic-release/git'
   - '@semantic-release/github'
   - 'semantic-release-slack-bot'
-  - path: 'semantic-release-helm'
-    chartPath: './charts/semantic-release-test'
+  - 'semantic-release-helm'
 
 analyzeCommits:
   - path: '@semantic-release/commit-analyzer'
@@ -103,12 +104,10 @@ prepare:
     message: 'RELEASE: ${nextRelease.version}'
     assets: ['CHANGELOG.md']
   - path: 'semantic-release-helm'
-    chartPath: './charts/semantic-release-test'
 
 publish:
   - path: '@semantic-release/github'
   - path: 'semantic-release-helm'
-    chartPath: './charts/semantic-release-test'
 
 success:
   - path: 'semantic-release-slack-bot'
