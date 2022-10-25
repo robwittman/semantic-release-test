@@ -1,3 +1,11 @@
+## [1.3.3](https://github.com/robwittman/semantic-release-test/compare/v1.3.2...v1.3.3) (2022-10-25)
+
+
+### Bug Fixes
+
+* Add missing crConfigPath ([609f968](https://github.com/robwittman/semantic-release-test/commit/609f96815f0c69a282cfeff5986aee490858375c))
+* Configure chart-releaser ([d540c2c](https://github.com/robwittman/semantic-release-test/commit/d540c2ca8a6d55263499aae00fc314019590f111))
+
 ## [1.3.2](https://github.com/robwittman/semantic-release-test/compare/v1.3.1...v1.3.2) (2022-10-24)
 
 
