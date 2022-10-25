@@ -1,0 +1,4 @@
+owner: robwittman
+git-repo: semantic-release-test
+git-base-url: https://api.github.com/
+git-upload-url: https://uploads.github.com/

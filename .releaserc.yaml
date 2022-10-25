@@ -2,6 +2,7 @@ branches:
   - main
 
 chartPath: './charts/semantic-release-test'
+crPublish: true
 
 verifyConditions:
   - '@semantic-release/changelog'
