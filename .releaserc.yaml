@@ -3,6 +3,7 @@ branches:
 
 chartPath: './charts/semantic-release-test'
 crPublish: true
+crConfigPath: '.ct.yaml'
 
 verifyConditions:
   - '@semantic-release/changelog'
